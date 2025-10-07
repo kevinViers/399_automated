@@ -32,10 +32,6 @@ I did not want to do this, so I spent several weeks automating it instead!
 
 This tool automates the creation of steganography and encoding questions for the CAHSI Cybersecurity Hackathon held at the Great Minds in STEM (GMiS) conference. Built for students in the CS/ITC 399 internship course at California State University, Dominguez Hills.
 
-### Why This Exists
-
-Students are required to generate **50 questions per week** for ~8 weeks leading up to the October GMiS conference. Manual creation takes **2-5 minutes per question** (100-250 minutes/week). This tool reduces that to **~5 minutes total**.
-
 **Time Savings:** 95-245 minutes per week!
 
 ---
