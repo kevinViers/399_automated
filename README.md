@@ -14,7 +14,6 @@ I did not want to do this, so I spent several weeks automating it instead!
 
 ## Table of Contents
 
-- [Overview](#-overview)
 - [Features](#-features)
 - [Quick Start](#-quick-start)
 - [Installation](#-installation)
@@ -22,9 +21,7 @@ I did not want to do this, so I spent several weeks automating it instead!
 - [File Structure](#-file-structure)
 - [Question Types](#-question-types)
 - [Verification](#-verification)
-- [Troubleshooting](#-troubleshooting)
-- [Contributing](#-contributing)
-- [License](#-license)
+
 
 ---
 
